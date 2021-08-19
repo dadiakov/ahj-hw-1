@@ -1,3 +1,4 @@
+/* eslint-disable eol-last */
 // TODO: write code here
 
 // comment this to pass build
@@ -9,4 +10,3 @@ export default function demo(value) {
 }
 
 console.log('app.js included');
-console.log(demo('someValue'));
